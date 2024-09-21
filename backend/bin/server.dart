@@ -64,7 +64,6 @@ Future<Response> _submitHandler(Request req) async {
       headers: _headers,
     );
   }
-  ;
 }
 
 void main(List<String> args) async {
